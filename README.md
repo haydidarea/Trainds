@@ -1,0 +1,2 @@
+# Trainds
+Latihan git dll
