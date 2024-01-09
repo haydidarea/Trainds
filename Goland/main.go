@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Trainds/Goland/restapi/models"
+	"github.com/Trainds/Goland/models"
 	"github.com/Traninds/Goland/controllers/Productcontroller"
 	"github.com/gin-gonic/gin"
 )
